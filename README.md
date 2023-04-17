@@ -22,4 +22,8 @@
   </a>
 </p>
 
+<!-- score  -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroyuki-nishi)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--  trophy  -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiroyuki-nishi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
